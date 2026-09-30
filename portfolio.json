@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "repository": "AlonsoMarcosM/TFG_AlonsoMarcosMu-oz",
-  "repository_url": "https://github.com/AlonsoMarcosM/TFG_AlonsoMarcosMu-oz",
+  "repository": "alonsomarcosm99/TFG_AlonsoMarcosMu-oz",
+  "repository_url": "https://github.com/alonsomarcosm99/TFG_AlonsoMarcosMu-oz",
   "title": {
     "es": "Ejecución remota de programas R",
     "en": "Remote R Program Execution"
@@ -17,6 +17,6 @@
     "mode": "static-mock",
     "source_branch": "main",
     "status": "live",
-    "url": "https://alonsomarcosm.github.io/TFG_AlonsoMarcosMu-oz/"
+    "url": "https://alonsomarcosm99.github.io/TFG_AlonsoMarcosMu-oz/"
   }
 }

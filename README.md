@@ -1,8 +1,8 @@
 # Ejecución remota de programas R · TFG Ingeniería Informática (UCLM)
 
-> **Demo pública:** [Abrir aplicación](https://alonsomarcosm.github.io/TFG_AlonsoMarcosMu-oz/)
+> **Demo pública:** [Abrir aplicación](https://alonsomarcosm99.github.io/TFG_AlonsoMarcosMu-oz/)
 >
-> **Caso de estudio:** https://alonsomarcosm.github.io/es/projects/tfg-remote-r-scripts/
+> **Caso de estudio:** https://alonsomarcosm99.github.io/es/projects/tfg-remote-r-scripts/
 
 ![Angular](https://img.shields.io/badge/Angular-19-DD0031?logo=angular&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular%20Material-19-3F51B5?logo=angular&logoColor=white)
