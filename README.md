@@ -1,5 +1,9 @@
 # Ejecución remota de programas R · TFG Ingeniería Informática (UCLM)
 
+**En una frase:** Aplicación web para ejecutar programas R desde el navegador sin instalar R. Un frontend Angular 19 habla con una API REST en R con Plumber, documentada con OpenAPI, que al iniciar sesión lanza una API dedicada para cada usuario en su propio puerto y directorio, la detiene al cerrar sesión y gestiona usuarios Linux con roles de administrador y básico. Backend y frontend corren en contenedores con Docker Compose.
+
+**In one sentence:** Web application for running R programs from the browser without installing R. An Angular 19 frontend talks to an OpenAPI-documented R REST API built with Plumber, which starts a dedicated API for each user on its own port and directory at login, stops it at logout and manages Linux users with administrator and basic roles. Backend and frontend run in containers with Docker Compose.
+
 > **Demo pública:** [Abrir aplicación](https://alonsomarcosm99.github.io/TFG_AlonsoMarcosMu-oz/)
 >
 > **Caso de estudio:** https://alonsomarcosm99.github.io/es/projects/tfg-remote-r-scripts/
